@@ -11,8 +11,7 @@ A widget for displaying the status of any World of Warcraft US Realm.
 
 This plugin creates a widget that you can use in a sidebar to display the current status of any US World of Warcraft realm.  After looking around for an already existing plugin I realized nobody had created one yet and decided to do it myself.  This is my first WP plugin and I hope you enjoy!  Feel free to contact me with any questions, comments, etc.
 
-* Usage *
-Add the widget to your sidebar.  Set the Title to whatever you want the header of the widget to say, and set the Realm Name to the desired name of a US World of Warcraft realm.
+* Usage: Add the widget to your sidebar.  Set the Title to whatever you want the header of the widget to say, and set the Realm Name to the desired name of a US World of Warcraft realm.
 
 == Installation ==
 
