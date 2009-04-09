@@ -1,6 +1,6 @@
 === WoW Realm Status ===
 Contributors: norova (Ryan Cain)
-Tags: warcraft, wow, realm, status
+Tags: world, warcraft, wow, realm, status, widget, sidebar, blizzard
 Requires at least: 2.1
 Tested up to: 2.7.1
 Stable tag: trunk
