@@ -3,7 +3,7 @@ Contributors: norova (Ryan Cain)
 Tags: world, warcraft, wow, realm, status, widget, sidebar, blizzard
 Requires at least: 2.1
 Tested up to: 2.7.1
-Stable tag: trunk
+Stable tag: 0.0.1
 
 A widget for displaying the status of any World of Warcraft US Realm.
 
