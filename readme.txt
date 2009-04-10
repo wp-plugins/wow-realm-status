@@ -27,6 +27,10 @@ No.  Not yet, anyway.  When I get around to it I plan on adding support for disp
 
 I created this plugin in under an hour and do not currently have the time to add support for WoW Europe realms.  This is something I'd like to add, though.
 
+== Screenshots ==
+
+1. The WoW Realm Status widget in the sidebar of my web site.
+
 == Credits ==
 
 [Ricardo González](http://wordpress.org/extend/plugins/profile/rickgc) - This plugin is almost a clone of Ricardo's Twitter for Wordpress plugins. MAJOR props to him!
